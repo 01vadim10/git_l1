@@ -12,22 +12,6 @@ BOOL blockingCheck(BOOL PrElmOn, BOOL DownControl, BOOL BordersControl, BOOL Mov
 	return out;
 }
 
-
-/* 	
-	Mode = 0 - ручной режим
-	Mode = 1 - автомат. режим
-*/
-BOOL blockingCheckMode(BOOL Mode, BOOL Ready, BOOL ElmBeltStart)
-{
-	BOOL out;
-	out = 0;
-	if (Mode == 0)
-		out = !Ready;
-	else out = !ElmBeltStart;
-	
-	return out;
-}
-
 /*	
 	Запуск конвейера
 	ConvStart - переменная DO, которая запускает данный конвейер
@@ -52,7 +36,7 @@ void convH2XXStop(BOOL ConvStart)
 void convH2XX(BOOL PrElmOn, BOOL DownControl, BOOL BordersControl, BOOL MoveControl, BOOL Mode, BOOL Ready, BOOL ElmBeltStart,
 	BOOL ConvStart)
 {
-	if (!blockingCheck(PrElmOn, DownControl, BordersControl, MoveControl)/* && !blockingCheckMode(Mode, Ready, ElmBeltStart)*/ &&
+	if (!blockingCheck(PrElmOn, DownControl, BordersControl, MoveControl) &&
 		convH2XX_DO_B)
 		convH2XXStart(ConvStart);
 	else convH2XXStop(ConvStart);
