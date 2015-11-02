@@ -1,0 +1,28 @@
+
+
+Mon Nov 02 09:34:44 2015
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Mon Nov 02 09:34:44 2015
+COMMAND_COLDSTART
+InstanceName : 01d115388fbe2490
+
+WorkingPath :
+D:\Work\Projects\Nerehta_Forming\Temp\Simulation\X20CP1584\X20CP1584\
+
+
+
+Mon Nov 02 09:34:44 2015
+COMMAND_COLDSTART
+Version : D4.22
+
+
+
+Mon Nov 02 11:47:04 2015
+COMMAND_TERMINATE
+
+
+Mon Nov 02 11:47:05 2015

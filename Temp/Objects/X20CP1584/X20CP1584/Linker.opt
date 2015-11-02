@@ -1,0 +1,7 @@
+Excavator	"$(AS_CPU_PATH)/Excavator/Cyclic.c.o" "$(AS_CPU_PATH)/Excavator/Init.c.o" "$(AS_CPU_PATH)/Excavator/Exit.c.o"  -o "$(AS_CPU_PATH)/Excavator/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+Conveyor	"$(AS_CPU_PATH)/Conveyor/Cyclic.c.o" "$(AS_CPU_PATH)/Conveyor/Init.c.o" "$(AS_CPU_PATH)/Conveyor/Exit.c.o"  -o "$(AS_CPU_PATH)/Conveyor/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+FeederBunk	"$(AS_CPU_PATH)/FeederBunk/Cyclic.c.o" "$(AS_CPU_PATH)/FeederBunk/Init.c.o" "$(AS_CPU_PATH)/FeederBunk/Exit.c.o"  -o "$(AS_CPU_PATH)/FeederBunk/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+Mixer	"$(AS_CPU_PATH)/Mixer/Cyclic.c.o" "$(AS_CPU_PATH)/Mixer/Init.c.o" "$(AS_CPU_PATH)/Mixer/Exit.c.o"  -o "$(AS_CPU_PATH)/Mixer/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+GrinderCla	"$(AS_CPU_PATH)/GrinderCla/Cyclic.c.o" "$(AS_CPU_PATH)/GrinderCla/Init.c.o" "$(AS_CPU_PATH)/GrinderCla/Exit.c.o"  -o "$(AS_CPU_PATH)/GrinderCla/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+PressScrew	"$(AS_CPU_PATH)/PressScrew/Cyclic.c.o" "$(AS_CPU_PATH)/PressScrew/Init.c.o" "$(AS_CPU_PATH)/PressScrew/Exit.c.o"  -o "$(AS_CPU_PATH)/PressScrew/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+Control	"$(AS_CPU_PATH)/Control/Cyclic.c.o" "$(AS_CPU_PATH)/Control/Init.c.o" "$(AS_CPU_PATH)/Control/Exit.c.o"  -o "$(AS_CPU_PATH)/Control/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Parameters>
+  <Connection>
+    <DeviceParameters>/IF=COM1 /BD=57600 /PA=2 /IT=20 /RS=0</DeviceParameters>
+    <ConnectionParameters>/RT=1000 /AM=*</ConnectionParameters>
+  </Connection>
+  <AsProject>
+    <ApjFullFileName>D:\Work\Projects\Nerehta_Forming\Nerehta_Forming.apj</ApjFullFileName>
+    <ProjectName>Nerehta_Forming</ProjectName>
+    <ActiveConfigurationName>X20CP1584</ActiveConfigurationName>
+    <LicenseDataFolder>D:\Work\Projects\Nerehta_Forming\Temp\Objects\X20CP1584\X20CP1584</LicenseDataFolder>
+  </AsProject>
+  <General>
+    <DeleteParameterFile>false</DeleteParameterFile>
+  </General>
+</Parameters>

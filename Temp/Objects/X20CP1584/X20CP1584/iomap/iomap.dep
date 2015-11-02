@@ -1,0 +1,6 @@
+$(AS_PROJECT_PATH)/logical/pressscrew/variables.var
+$(AS_PROJECT_PATH)/logical/grinderclay/variables.var
+$(AS_PROJECT_PATH)/logical/control/variables.var
+$(AS_PROJECT_PATH)/logical/excavator/variables.var
+$(AS_PROJECT_PATH)/logical/conveyor/variables.var
+$(AS_PROJECT_PATH)/logical/mixer/variables.var

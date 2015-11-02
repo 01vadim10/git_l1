@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.2.2.134"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1" />
+  <TaskClass
+    Name="Cyclic#2" />
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="Excavator"
+      Disable="false"
+      Source="Excavator"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Variables.var" />
+    </Task>
+    <Task
+      Name="Conveyor"
+      Disable="false"
+      Source="Conveyor"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Variables.var" />
+    </Task>
+    <Task
+      Name="FeederBunk"
+      Disable="false"
+      Source="FeederBunker"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Variables.var" />
+    </Task>
+    <Task
+      Name="Mixer"
+      Disable="false"
+      Source="Mixer"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Variables.var" />
+    </Task>
+    <Task
+      Name="GrinderCla"
+      Disable="false"
+      Source="GrinderClay"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Variables.var" />
+    </Task>
+    <Task
+      Name="PressScrew"
+      Disable="false"
+      Source="PressScrew"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Variables.var" />
+    </Task>
+    <Task
+      Name="Control"
+      Disable="false"
+      Source="Control"
+      Language="ANSIC">
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Types.typ" />
+      <File
+        Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8" />
+</ConfigInfo>

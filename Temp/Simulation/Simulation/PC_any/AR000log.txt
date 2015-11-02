@@ -1,0 +1,35 @@
+
+
+Mon Sep 21 15:45:33 2015
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Mon Sep 21 15:45:33 2015
+COMMAND_COLDSTART
+InstanceName : 01d0f46b67cc1390
+
+WorkingPath :
+C:\projects\Nerehta_Forming\Temp\Simulation\Simulation\PC_any\
+
+
+
+Mon Sep 21 15:45:33 2015
+COMMAND_COLDSTART
+Version : D4.22
+
+
+
+Mon Sep 21 15:52:50 2015
+COMMAND_TERMINATE
+
+
+Mon Sep 21 15:52:51 2015
+
+
+Mon Sep 21 15:52:51 2015
+COMMAND_TERMINATE
+
+
+Mon Sep 21 15:52:51 2015

@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.2.2.134"?>
+<Objects>
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package"
+    LastWriteTime="130873171388741674" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="130873131277809750"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="130873131277839750"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="130700340840000000" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="130700340840000000" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="130700340840000000" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\astime\Binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="130700340840000000" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="130700340840000000" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Cyclic.c"
+    LogicalPath="Excavator.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873165293381397"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Init.c"
+    LogicalPath="Excavator.Init.c"
+    Type="File"
+    LastWriteTime="130873165293671426"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Exit.c"
+    LogicalPath="Excavator.Exit.c"
+    Type="File"
+    LastWriteTime="130873165293771436"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Types.typ"
+    LogicalPath="Excavator.Types.typ"
+    Type="File"
+    LastWriteTime="130873165294241483"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\Variables.var"
+    LogicalPath="Excavator.Variables.var"
+    Type="File"
+    LastWriteTime="130873190962098247"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Excavator\ANSIC.prg"
+    LogicalPath="Excavator"
+    Type="Program"
+    LastWriteTime="130873165294391498" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\lib.h"
+    LogicalPath="Conveyor.lib.h"
+    Type="File"
+    LastWriteTime="130887739720862092"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Cyclic.c"
+    LogicalPath="Conveyor.Cyclic.c"
+    Type="File"
+    LastWriteTime="130886989566904123"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Init.c"
+    LogicalPath="Conveyor.Init.c"
+    Type="File"
+    LastWriteTime="130873165319303989"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Exit.c"
+    LogicalPath="Conveyor.Exit.c"
+    Type="File"
+    LastWriteTime="130873165319764035"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Types.typ"
+    LogicalPath="Conveyor.Types.typ"
+    Type="File"
+    LastWriteTime="130873165319874046"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Variables.var"
+    LogicalPath="Conveyor.Variables.var"
+    Type="File"
+    LastWriteTime="130882648285419517"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\Package\Package.pkg"
+    LogicalPath="Conveyor.Package"
+    Type="Package"
+    LastWriteTime="130873193131415157" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Conveyor\ANSIC.prg"
+    LogicalPath="Conveyor"
+    Type="Program"
+    LastWriteTime="130886828145248272" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Cyclic.c"
+    LogicalPath="FeederBunker.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873165356777736"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Init.c"
+    LogicalPath="FeederBunker.Init.c"
+    Type="File"
+    LastWriteTime="130873165356857744"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Exit.c"
+    LogicalPath="FeederBunker.Exit.c"
+    Type="File"
+    LastWriteTime="130873165356937752"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Types.typ"
+    LogicalPath="FeederBunker.Types.typ"
+    Type="File"
+    LastWriteTime="130873165357017760"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\Variables.var"
+    LogicalPath="FeederBunker.Variables.var"
+    Type="File"
+    LastWriteTime="130882407871989330"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\FeederBunker\ANSIC.prg"
+    LogicalPath="FeederBunker"
+    Type="Program"
+    LastWriteTime="130873165358377896" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Cyclic.c"
+    LogicalPath="Mixer.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873165374469505"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Init.c"
+    LogicalPath="Mixer.Init.c"
+    Type="File"
+    LastWriteTime="130873165374539512"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Exit.c"
+    LogicalPath="Mixer.Exit.c"
+    Type="File"
+    LastWriteTime="130873165374619520"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Types.typ"
+    LogicalPath="Mixer.Types.typ"
+    Type="File"
+    LastWriteTime="130873165374689527"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\Variables.var"
+    LogicalPath="Mixer.Variables.var"
+    Type="File"
+    LastWriteTime="130882650371308085"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Mixer\ANSIC.prg"
+    LogicalPath="Mixer"
+    Type="Program"
+    LastWriteTime="130873165374849543" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Cyclic.c"
+    LogicalPath="GrinderClay.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873165399732031"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Init.c"
+    LogicalPath="GrinderClay.Init.c"
+    Type="File"
+    LastWriteTime="130873165399812039"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Exit.c"
+    LogicalPath="GrinderClay.Exit.c"
+    Type="File"
+    LastWriteTime="130873165399892047"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Types.typ"
+    LogicalPath="GrinderClay.Types.typ"
+    Type="File"
+    LastWriteTime="130873165399962054"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\Variables.var"
+    LogicalPath="GrinderClay.Variables.var"
+    Type="File"
+    LastWriteTime="130882483138370962"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\GrinderClay\ANSIC.prg"
+    LogicalPath="GrinderClay"
+    Type="Program"
+    LastWriteTime="130873165414593517" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Cyclic.c"
+    LogicalPath="PressScrew.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873165443796437"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Init.c"
+    LogicalPath="PressScrew.Init.c"
+    Type="File"
+    LastWriteTime="130873165443866444"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Exit.c"
+    LogicalPath="PressScrew.Exit.c"
+    Type="File"
+    LastWriteTime="130873165445166574"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Types.typ"
+    LogicalPath="PressScrew.Types.typ"
+    Type="File"
+    LastWriteTime="130873165445246582"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\Variables.var"
+    LogicalPath="PressScrew.Variables.var"
+    Type="File"
+    LastWriteTime="130882487714403128"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\PressScrew\ANSIC.prg"
+    LogicalPath="PressScrew"
+    Type="Program"
+    LastWriteTime="130873165445436601" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Cyclic.c"
+    LogicalPath="Control.Cyclic.c"
+    Type="File"
+    LastWriteTime="130873171142421674"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Init.c"
+    LogicalPath="Control.Init.c"
+    Type="File"
+    LastWriteTime="130873171142531674"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Exit.c"
+    LogicalPath="Control.Exit.c"
+    Type="File"
+    LastWriteTime="130873171142691674"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Types.typ"
+    LogicalPath="Control.Types.typ"
+    Type="File"
+    LastWriteTime="130873171142791674"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\Variables.var"
+    LogicalPath="Control.Variables.var"
+    Type="File"
+    LastWriteTime="130882493439325563"
+    Private="true" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Control\ANSIC.prg"
+    LogicalPath="Control"
+    Type="Program"
+    LastWriteTime="130873171143231674" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\Config.pkg"
+    LogicalPath="X20CP1584"
+    Type="Configuration"
+    LastWriteTime="130873161318543953" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\Hardware.hw"
+    LogicalPath="X20CP1584.Hardware.hw"
+    Type="File"
+    LastWriteTime="130887695881580659"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\Hardware.hwl"
+    LogicalPath="X20CP1584.Hardware.hwl"
+    Type="File"
+    LastWriteTime="130873161316513750"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\X20CP1584\Cpu.sw"
+    LogicalPath="X20CP1584.X20CP1584.Cpu.sw"
+    Type="File"
+    LastWriteTime="130873171391101674"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\X20CP1584\Cpu.per"
+    LogicalPath="X20CP1584.X20CP1584.Cpu.per"
+    Type="File"
+    LastWriteTime="130873136090009750"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\X20CP1584\IoMap.iom"
+    LogicalPath="X20CP1584.X20CP1584.IoMap.iom"
+    Type="File"
+    LastWriteTime="130886794794972842"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\X20CP1584\PvMap.vvm"
+    LogicalPath="X20CP1584.X20CP1584.PvMap.vvm"
+    Type="File"
+    LastWriteTime="130873136090149750"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\X20CP1584\Cpu.pkg"
+    LogicalPath="X20CP1584.X20CP1584"
+    Type="Cpu"
+    LastWriteTime="130873136090169750" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Physical\X20CP1584\Hardware.jpg"
+    LogicalPath="X20CP1584.Hardware.jpg"
+    Type="File"
+    LastWriteTime="130873161318363935"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\AsIecCon\SG4\AsIecCon.h"
+    LogicalPath="AsIecCon.h"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\astime\SG4\astime.h"
+    LogicalPath="astime.h"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Operator\SG4\Operator.h"
+    LogicalPath="Operator.h"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+  <Object
+    Path="D:\Work\Projects\Nerehta_Forming\Logical\Libraries\Runtime\SG4\Runtime.h"
+    LogicalPath="Runtime.h"
+    Type="File"
+    LastWriteTime="130700340840000000"
+    Private="false" />
+</Objects>

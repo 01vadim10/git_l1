@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.2.2.134"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="D:\Work\Projects\Nerehta_Forming\Logical\"
+  TempDirectory="D:\Work\Projects\Nerehta_Forming\Temp\"
+  AutomationStudioVersion="4.2.2.134"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="X20CP1584"
+  CreateAnsiCDeclarations="false" />

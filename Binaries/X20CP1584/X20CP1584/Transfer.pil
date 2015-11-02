@@ -1,0 +1,12 @@
+Connection "/IF=COM1 /BD=57600 /PA=2 /IT=20 /RS=0", "/RT=1000 /AM=*"
+Diagnose
+DeleteMemory ROM
+Coldstart
+Download: ".\System\X20CP1584D42.BR", "ROM"
+Coldstart
+Download: ".\ashwd.br", "SYSROM"
+Download: ".\asfw.br", "SYSROM"
+Download: ".\sysconf.br", "SYSROM"
+Warmstart
+Download: ".\iomap.br", "ROM"
+Download: ".\Excavator.br", "ROM"
